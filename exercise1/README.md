@@ -20,3 +20,8 @@ console.log('It works!'); </script>
 ![01 Hello World Exercise Preview](../../.learn/assets/01-1.png?raw=true)
 
 3. Creating an array of literals and accessing the elements:
+```
+const names = ['alice', 'bob', 'carol'];
+console.log(names[0]); console.log(names.length); console.log(names[names.length - 1]);
+```
+![01 Hello World Exercise Preview](../../.learn/assets/01-1.png?raw=true)
